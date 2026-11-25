@@ -1,0 +1,7 @@
+control_id,control_name,control_type,description,effectiveness,control_owner
+C001,Identity Verification,Preventive,Customer identity verification during onboarding,0.8,Head of Operations
+C002,Payment Fraud Monitoring,Detective,Automated monitoring of payment fraud indicators,0.65,Head of Payments
+C003,Transaction Monitoring Rules,Detective,Rules and alerts for suspicious transaction patterns,0.6,MLRO
+C004,Access Management and MFA,Preventive,Role-based access and multi-factor authentication,0.85,IT Security Manager
+C005,Business Continuity Plan,Corrective,Documented business continuity and recovery procedures,0.55,IT Security Manager
+C006,Third-Party Due Diligence,Preventive,Security and compliance assessments of suppliers,0.5,Vendor Manager

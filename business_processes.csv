@@ -1,0 +1,7 @@
+process_id,process_name,process_owner,description,criticality
+BP001,Customer Onboarding,Head of Operations,Customer registration and identity verification,High
+BP002,Payment Processing,Head of Payments,Processing customer payment transactions,Critical
+BP003,Transaction Monitoring,MLRO,Monitoring transactions for suspicious activity,Critical
+BP004,Data Management,Data Protection Officer,Managing and protecting customer information,High
+BP005,Cloud Infrastructure,IT Security Manager,Operating and securing cloud infrastructure,Critical
+BP006,Third-Party Management,Vendor Manager,Managing external service providers,High

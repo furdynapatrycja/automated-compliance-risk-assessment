@@ -1,0 +1,7 @@
+risk_id,risk_name,process_id,risk_category,description,likelihood,impact,velocity,control_id,risk_owner,control_name,effectiveness,inherent_risk_score,residual_risk_score,inherent_risk_level,residual_risk_level
+R001,Identity Verification Failure,BP001,Compliance,Failure to properly verify customer identity,4,5,4,C001,Head of Operations,Identity Verification,0.8,80,16.0,Critical,Low
+R002,Payment Processing Fraud,BP002,Fraud,Fraudulent payment transactions may result in financial losses,4,5,5,C002,Head of Payments,Payment Fraud Monitoring,0.65,100,35.0,Critical,Medium
+R003,Failure to Detect Suspicious Transactions,BP003,Financial Crime,Suspicious transactions may not be identified or escalated,4,5,4,C003,MLRO,Transaction Monitoring Rules,0.6,80,32.0,Critical,Medium
+R004,Personal Data Breach,BP004,Data Protection,Unauthorized access to or disclosure of customer data,3,5,4,C004,Data Protection Officer,Access Management and MFA,0.85,60,9.0,High,Low
+R005,Cloud Service Disruption,BP005,Operational,Cloud service outage may disrupt critical business operations,3,5,5,C005,IT Security Manager,Business Continuity Plan,0.55,75,33.75,High,Medium
+R006,Third-Party Security Failure,BP006,Third-Party,A service provider security incident may affect FinoraPay,3,4,4,C006,Vendor Manager,Third-Party Due Diligence,0.5,48,24.0,Medium,Low

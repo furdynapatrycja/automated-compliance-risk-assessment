@@ -1,0 +1,7 @@
+action_id,risk_id,finding,action,owner,priority,status,target_date,evidence_required
+A001,R001,Identity verification controls require further validation,Perform a review of customer identity verification procedures,Head of Operations,High,In Progress,2026-12-15,Updated procedure and testing records
+A002,R002,Payment fraud monitoring effectiveness requires improvement,Review fraud detection rules and alert thresholds,Head of Payments,Critical,Open,2026-12-10,Rule review and testing results
+A003,R003,Transaction monitoring rules may not identify all suspicious patterns,Review transaction monitoring scenarios and escalation procedures,MLRO,Critical,In Progress,2026-12-12,Scenario review and sample testing
+A004,R004,Access management requires periodic validation,Conduct an access rights review,IT Security Manager,Medium,Open,2026-12-20,Access review records
+A005,R005,Business continuity arrangements require additional testing,Conduct a business continuity exercise,IT Security Manager,High,Open,2026-12-18,Exercise report and lessons learned
+A006,R006,Third-party security assessments require stronger evidence,Perform a risk-based supplier reassessment,Vendor Manager,High,Open,2026-12-22,Supplier assessment report
